@@ -15,6 +15,6 @@ To transition into Edge AI engineering. Coming from an Electronics Engineering b
 ---
 
 ## 🤝 Connect With Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@email.com
-- **Portfolio:** [Your Website Link, if any]
+- **LinkedIn:** Clarence Gavina
+- **Email:** clarence.gavs@gmail.com
+- **Portfolio:** soon...
