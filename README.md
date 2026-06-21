@@ -12,7 +12,7 @@
 
 ## Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:clarence.gavs@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)]((https://www.linkedin.com/in/clarence-joseph-gavina/)) 
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:clarence.gavs@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/clarence-joseph-gavina/]) 
 
 ---
 <p align="center">
