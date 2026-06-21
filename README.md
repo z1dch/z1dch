@@ -10,7 +10,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 - **LinkedIn:** Clarence Gavina
 - **Email:** clarence.gavs@gmail.com
 - **Portfolio:** soon...
