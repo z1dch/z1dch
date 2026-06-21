@@ -11,9 +11,9 @@
 ---
 
 ## Connect With Me
-- **LinkedIn:** Clarence Gavina
-- **Email:** clarence.gavs@gmail.com
-- **Portfolio:** soon...
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:clarence.gavs@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)]((https://www.linkedin.com/in/clarence-joseph-gavina/)) 
+
 ---
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=z1dch&show_icons=true&locale=en&layout=compact&theme=dark" alt="z1dch" />
