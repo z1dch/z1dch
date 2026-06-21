@@ -1,3 +1,20 @@
-<h1 align="center">Hi 👋, I'm Newbie on this game</h1>
-<h3 align="center">I hope I can survive!</h3>
+# Hi there, I'm Clarence Joseph M. Gavina! 👋
+### Electronics Engineer & Aspiring AI Engineer 
 
+To transition into Edge AI engineering. Coming from an Electronics Engineering background and focusing on Python, my aim is to bridge the gap between hardware and software by learning to implement AI models directly onto physical devices.
+
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+- **Languages:** Python (Advanced)
+- **Data & AI (Software):** Pandas, NumPy, Matplotlib, Scikit-Learn
+- **Hardware & Edge AI:** Microcontrollers (Arduino/ESP32/Raspberry Pi), Sensor Integration, Circuit Design, Firmware development
+- **Core Engineering:** Signal Processing, Communication System, Licensed Electronics Engineering principles
+
+---
+
+## 🤝 Connect With Me
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email:** your.email@email.com
+- **Portfolio:** [Your Website Link, if any]
