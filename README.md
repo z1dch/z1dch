@@ -14,3 +14,7 @@
 - **LinkedIn:** Clarence Gavina
 - **Email:** clarence.gavs@gmail.com
 - **Portfolio:** soon...
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=z1dch&show_icons=true&locale=en&layout=compact" alt="z1dch" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=z1dch&show_icons=true&locale=en" alt="z1dch" /></p>
