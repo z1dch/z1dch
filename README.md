@@ -18,8 +18,14 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Connect With Me
+# 🌐 Connect with me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white)](mailto:clarence.gavs@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/clarence-joseph-gavina/]) 
+Let's build something awesome together! Feel free to reach out for collaborations, opportunities, or just a tech chat.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clarence.gavs@gmail.com) &nbsp; clarence.gavs@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarence-joseph-gavina/) &nbsp; https://www.linkedin.com/in/clarence-joseph-gavina/
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white)](#) &nbsp; 🛠️ *Coming soon...*
 
 ---
