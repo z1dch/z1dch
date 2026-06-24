@@ -1,7 +1,7 @@
 # Hi there, I'm Ｃｌａｒｅｎｃｅ Ｇａｖｉｎａ! 👋
 ## Electronics Engineer & Aspiring AI Engineer
 
-> **Career Objective:** To transition into Edge AI engineering. Coming from an Electronics Engineering background and focusing on Python, my aim is to bridge the gap between hardware and software by learning to implement AI models directly onto physical devices
+> **Career Objective:** To transition into Edge AI engineering. Coming from an Electronics Engineering background and focusing on Python, my aim is to bridge the gap between hardware and software by learning to implement AI models directly onto physical devices.
 
 ---
 
